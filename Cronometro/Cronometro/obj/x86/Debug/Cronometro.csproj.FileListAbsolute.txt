@@ -1,0 +1,8 @@
+C:\Users\Wellington\Desktop\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Wellington\Desktop\Cronometro\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Wellington\Desktop\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Form1.resources
+C:\Users\Wellington\Desktop\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Properties.Resources.resources
+C:\Users\Wellington\Desktop\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\Users\Wellington\Desktop\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.exe
+C:\Users\Wellington\Desktop\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.pdb
+C:\Users\Wellington\Desktop\Cronometro\Cronometro\Cronometro\obj\x86\Debug\Cronometro.csprojResolveAssemblyReference.cache
